@@ -1,2 +1,4 @@
-package com.isep.tictactoe;public class Main {
+package com.isep.tictactoe;
+
+public class Main {
 }
